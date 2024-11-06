@@ -6,3 +6,6 @@
 # A basic calculator 
 is a simple type of program that performs only basic mathematical operations.
 With this type of calculator, you can perform only the four primary mathematical operations: addition, subtraction, multiplication, and division
+
+
+ [![Robot](https://img.shields.io/badge/Robot-00ADD8?style=flat&logo=robot&logoColor=white)](https://sites.google.com/view/tavakoli/home)
