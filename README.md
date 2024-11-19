@@ -13,4 +13,4 @@ With this type of calculator, you can perform only the four primary mathematical
 
 
 
-[![asciicast](https://asciinema.org/a/231021.svg)](https://asciinema.org/a/231021)
+[![asciicast]([https://asciinema.org/a/231021.svg](https://asciinema.org/a/9Ne0190iA0Q5eAO2W3dSGB8yh ))](https://asciinema.org/a/231021)
