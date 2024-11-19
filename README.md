@@ -9,3 +9,8 @@ With this type of calculator, you can perform only the four primary mathematical
 
 
  [![Website-Webdriver](https://img.shields.io/badge/Robot-00ADD8?style=flat&logo=robot&logoColor=white)](https://sites.google.com/view/tavakoli/home)
+
+
+
+
+[![asciicast](https://asciinema.org/a/231021.svg)](https://asciinema.org/a/231021)
