@@ -12,5 +12,4 @@ With this type of calculator, you can perform only the four primary mathematical
 
 
 ## Demo
-
-[Watch Terminal Demo on Asciinema](https://asciinema.org/a/9Ne0190iA0Q5eAO2W3dSGB8yh)
+<script src="https://asciinema.org/a/9Ne0190iA0Q5eAO2W3dSGB8yh.js" id="asciicast-9Ne0190iA0Q5eAO2W3dSGB8yh" async="true"></script>
