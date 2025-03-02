@@ -9,24 +9,24 @@ func main() {
 	var num1, num2 float64
 	var operator string
 
-	fmt.Println("Enter first number:")
+	fmt.Println("enter first number")
 	_, err := fmt.Scan(&num1)
 	if err != nil {
-		fmt.Println("Invalid input for first number.")
+		fmt.Println("invalid input for first number.")
 		os.Exit(1)
 	}
 
-	fmt.Println("Enter an operator (+, -, *, /):")
+	fmt.Println("enter an operator (+,-,*,/):")
 	_, err = fmt.Scan(&operator)
 	if err != nil {
-		fmt.Println("Invalid input for operator.")
+		fmt.Println("invalid input for operator.")
 		os.Exit(1)
 	}
 
-	fmt.Println("Enter second number:")
+	fmt.Println("enter second number:")
 	_, err = fmt.Scan(&num2)
 	if err != nil {
-		fmt.Println("Invalid input for second number.")
+		fmt.Println("invali input for second number ")
 		os.Exit(1)
 	}
 
@@ -39,15 +39,16 @@ func main() {
 	case "*":
 		result = num1 * num2
 	case "/":
+
 		if num2 == 0 {
-			fmt.Println("Error: Division by zero!")
+			fmt.Println(" error : division by zero!")
 			os.Exit(1)
 		}
 		result = num1 / num2
 	default:
-		fmt.Println("Invalid operator.")
+		fmt.Println("invalid operator.")
 		os.Exit(1)
-	}
 
-	fmt.Printf("Result: %.2f\n", result)
+	}
+	fmt.Println("result:", result)
 }
