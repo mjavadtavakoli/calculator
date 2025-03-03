@@ -24,7 +24,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Println("Enter second number:")
+	fmt.Println("hadi jan enter second number:")
 	_, err = fmt.Scan(&num2)
 	if err != nil {
 		fmt.Println("Invalid input for second number.")
