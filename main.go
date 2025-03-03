@@ -9,7 +9,7 @@ func main() {
 	var num1, num2 float64
 	var operator string
 
-	fmt.Println("mjavad jan enter first number:")
+	fmt.Println("javad  enter first number:")
 
 	_, err := fmt.Scan(&num1)
 	if err != nil {
@@ -17,14 +17,14 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Println("tavakoli jan enter operator (+, -, *, /):")
+	fmt.Println("my love enter operator (+, -, *, /):")
 	_, err = fmt.Scan(&operator)
 	if err != nil {
 		fmt.Println("Invalid input for operator.")
 		os.Exit(1)
 	}
 
-	fmt.Println("enter second number:")
+	fmt.Println(" please enter second number:")
 	_, err = fmt.Scan(&num2)
 	if err != nil {
 		fmt.Println("Invalid input for second number.")
