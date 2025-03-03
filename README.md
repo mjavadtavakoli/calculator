@@ -14,8 +14,8 @@ With this type of calculator, you can perform only the four primary mathematical
 ## Demo 
 [![asciicast](https://asciinema.org/a/9Ne0190iA0Q5eAO2W3dSGB8yh.svg)](https://asciinema.org/a/9Ne0190iA0Q5eAO2W3dSGB8yh)
 
-
+run :
 ``` bash
-run :  go run main.go
+go run main.go
 
 ```
