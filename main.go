@@ -9,7 +9,7 @@ func main() {
 	var num1, num2 float64
 	var operator string
 
-	fmt.Println(" enter first number:")
+	fmt.Println("picky picky oh oh  enter first number:")
 
 	_, err := fmt.Scan(&num1)
 	if err != nil {
